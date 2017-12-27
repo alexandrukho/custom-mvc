@@ -1,0 +1,20 @@
+.card-product .card-title {
+    background-color: rgba(238, 110, 115, 0.55);
+    font-size: 19px;
+}
+.card-product {
+    margin-bottom: 75px;
+}
+/*.admin-post-list img {
+    max-width: 600px;
+}*/
+.admin-post-setting a {
+    margin-bottom: 8px;
+}
+.controls-button {
+    margin-top: 22px;
+    margin-bottom: 10px;
+}
+#modalCreateUser button {
+    margin-top: 15px;
+}
